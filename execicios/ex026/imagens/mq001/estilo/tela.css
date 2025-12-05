@@ -18,6 +18,9 @@ header >h1 {
     text-align: center;
 }
 
+body {
+    background-color: gray;
+}
 menu ul{
     list-style-type: none;
     background-color: rgba(128, 128, 128, 0.726);
@@ -31,6 +34,11 @@ menu li {
 }
 h2 {
     text-align: center;
+}
+main {
+    background-color: white;
+    border-radius: 10px;
+    margin: 0px 40px 0px 40px ;
 }
 article {
     display: block;
